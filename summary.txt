@@ -1,0 +1,5 @@
+Notre projet a été dévisé en trois (3) applications:
+    commande: Relative à tout ce qui attrait à la commande
+    stock: pour la gestion de stock
+    administration: pour l'administration
+
